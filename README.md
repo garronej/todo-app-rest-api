@@ -1,1 +1,4 @@
-# todo-app-rest-api
+```
+yarn
+yarn dev
+```
